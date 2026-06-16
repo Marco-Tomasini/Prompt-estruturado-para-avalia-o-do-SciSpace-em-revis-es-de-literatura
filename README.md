@@ -1,5 +1,9 @@
 # Prompt estruturado para avaliação do SciSpace em revisões de literatura
 
+## Estrutura do Prompt
+
+O comando abaixo define o papel do agente, as diretrizes metodológicas (Protocolo PRISMA), os critérios de busca e a estrutura de formatação exigida para a saída dos dados. 
+
 ***
 
 “          Atue como um pesquisador sênior da
